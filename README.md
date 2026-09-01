@@ -107,7 +107,8 @@ Every other question matches its sample output exactly.
 | Day22 | **Q43** | Check if a number is a strong number | [`q43_strong_number.c`](Day22/q43_strong_number.c) |
 |  | **Q44** | Find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + ... up to n terms | [`q44_series_sum_odd_over_even.c`](Day22/q44_series_sum_odd_over_even.c) |
 | Day23 | **Q45** | Find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms | [`q45_series_sum_even_over_four_k_minus_one.c`](Day23/q45_series_sum_even_over_four_k_minus_one.c) |
-|  | **Q46** | Print the following pattern: ***** ***** ***** ***** ***** | [`q46_square_star_pattern.c`](Day23/q46_square_star_pattern.c) |
+|  | **Q46** | Print a 5x5 square star pattern | [`q46_square_star_pattern.c`](Day23/q46_square_star_pattern.c) |
+
 ## Pushing this to GitHub
 
 This folder is already a git repository with one commit. To publish it:
