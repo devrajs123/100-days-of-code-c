@@ -53,7 +53,7 @@ explaining the difference:
 |---|---|---|---|
 | **Q4** | `Circumference=43.96` for r=7 | `43.98` | `43.96` comes from PI = 3.14, but the same sample's `Area=153.94` needs accurate PI. The r=3 sample matches accurate PI exactly. |
 | **Q9** | `Compound Interest=1125.76` for 5000/7%/3y | `1125.22` | `P(1 + R/100)^T − P` gives 1125.22. |
-| **Q44** | `3.3` for n=3 | `2.58` | Summing `1 + 3/4 + 5/6 + …` gives 2.58. The n=5 sample (`4.4`) does match. |
+| **Q44** | `3.3` for n=3 | `2.58` | Summing `1 + 3/4 + 5/6 + …` gives 2.58. The n=5 sample (`4.4`) matches once rounded. |
 | **Q45** | `1.56` for n=3, `2.22` for n=5 | `1.78`, `2.84` | The k-th term `2k/(4k−1)` sums to these values. |
 
 Every other question matches its sample output exactly.
